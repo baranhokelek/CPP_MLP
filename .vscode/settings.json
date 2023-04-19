@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "tuple": "cpp",
+        "random": "cpp",
+        "cmath": "cpp",
+        "type_traits": "cpp",
+        "fstream": "cpp",
+        "__availability": "cpp",
+        "__config": "cpp",
+        "__string": "cpp",
+        "deque": "cpp",
+        "filesystem": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+    "cmake.configureOnOpen": true
+}
